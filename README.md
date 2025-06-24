@@ -39,7 +39,7 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,react,nodejs,ts,html,css,js,mysql,mongodb,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,react,html,css,js,mysql,git,postman" />
 </p>
 
 ---
@@ -48,7 +48,6 @@
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=yooni1231&show_icons=true&theme=transparent&count_private=true" alt="yooni1231's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=yooni1231&theme=transparent" alt="yooni1231's GitHub Streak" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=yooni1231&layout=donut&langs_count=8&theme=transparent" alt="yooni1231's Top Languages" />
 </div>
 
