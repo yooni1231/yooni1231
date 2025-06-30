@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/%EC%9C%A4%EC%84%9C-%EC%9D%B4-aa62aa314", target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://velog.io/@yooni1231](https://velog.io/@yooni1231__/posts)" target="_blank">
+  <a href="https://velog.io/@yooni1231" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 </div>
